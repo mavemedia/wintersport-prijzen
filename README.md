@@ -4,7 +4,7 @@ Open data van [Skizie](https://skizie.com): prijzen per week voor wintersport in
 wat er nog vrij is, welke skigebieden de meeste piste voor je geld geven en hoe lang je vanaf Nederland rijdt.
 De grafieken en uitleg staan op [skizie.com/wintersport-goedkoopst](https://skizie.com/wintersport-goedkoopst/).
 
-Bijgewerkt op 18-11-2026. De bestanden worden elke week vernieuwd.
+Bijgewerkt op 23-11-2026. De bestanden worden elke week vernieuwd.
 
 ## Bestanden
 

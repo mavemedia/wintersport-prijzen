@@ -7,7 +7,7 @@ Schruns,Montafon,Oostenrijk,539,869,1
 St. Gallenkirch,Montafon,Oostenrijk,541,872,1
 Niederau,Ski Juwel Alpbachtal Wildschönau,Oostenrijk,545,910,3
 Söll,SkiWelt Wilder Kaiser - Brixental,Oostenrijk,546,906,1
-Gaschurn,Montafon,Oostenrijk,547,877,4
+Gaschurn,Montafon,Oostenrijk,547,877,3
 Ellmau,SkiWelt Wilder Kaiser - Brixental,Oostenrijk,547,909,1
 Hopfgarten,SkiWelt Wilder Kaiser - Brixental,Oostenrijk,548,913,12
 St. Christoph am Arlberg,Ski Arlberg,Oostenrijk,548,887,1
@@ -28,13 +28,13 @@ Kaltenbach,Hochzillertal-Hochfügen,Oostenrijk,570,939,5
 Aschau im Zillertal,Hochzillertal-Hochfügen,Oostenrijk,571,943,6
 Zell am Ziller,Zillertal Arena,Oostenrijk,573,946,9
 See,See,Oostenrijk,574,916,1
-Stumm (bij Kaltenbach),Hochzillertal-Hochfügen,Oostenrijk,576,943,4
+Stumm (bij Kaltenbach),Hochzillertal-Hochfügen,Oostenrijk,576,943,5
 Fieberbrunn,Skicircus Saalbach / Hinterglemm / Leogang / Fieberbrunn,Oostenrijk,576,932,4
 Ramsau im Zillertal (bij Mayrhofen),Gerlosstein / Hainzenberg,Oostenrijk,577,950,6
 Ladis,Serfaus / Fiss / Ladis,Oostenrijk,580,893,2
 Axams,Axamer Lizum-Muttereralm,Oostenrijk,580,899,1
 Morgins,Les Portes du Soleil,Frankrijk,580,925,1
-Mayrhofen,Mayrhofen Hippach,Oostenrijk,581,954,19
+Mayrhofen,Mayrhofen Hippach,Oostenrijk,581,954,18
 Umhausen,Sölden (Ötztal),Oostenrijk,581,887,3
 Fiss,Serfaus / Fiss / Ladis,Oostenrijk,581,896,3
 Finkenberg (bij Mayrhofen),Mayrhofen Hippach,Oostenrijk,584,958,5
@@ -74,7 +74,7 @@ Piesendorf (bij Kaprun),Kaprun - Kitzsteinhorn/Maiskogel,Oostenrijk,605,968,5
 Verbier,Les Quatre Vallées,Zwitserland,605,959,2
 Maria Alm,Ski Amadé - Hochkönig,Oostenrijk,605,973,4
 Dorfgastein,Ski Amadé - Grossarltal,Oostenrijk,605,1007,1
-Neukirchen,Wildkogel Ski Arena,Oostenrijk,606,968,14
+Neukirchen,Wildkogel Ski Arena,Oostenrijk,606,968,13
 Schladming,Ski Amadé - Schladming-Dachstein,Oostenrijk,608,1017,1
 Nendaz,Les Quatre Vallées,Zwitserland,609,966,4
 Saalbach,Skicircus Saalbach / Hinterglemm / Leogang / Fieberbrunn,Oostenrijk,610,986,8
@@ -91,7 +91,7 @@ Fusch am Grossglockner,Zell am See-Kaprun,Oostenrijk,617,991,2
 Rauris,Rauriser Hochalm,Oostenrijk,617,1019,7
 Bad Hofgastein,Ski Amadé - Gasteinertal,Oostenrijk,617,1018,2
 Haus im Ennstal,Ski Amadé - Schladming-Dachstein,Oostenrijk,617,1023,2
-Hinterglemm,Skicircus Saalbach / Hinterglemm / Leogang / Fieberbrunn,Oostenrijk,619,992,13
+Hinterglemm,Skicircus Saalbach / Hinterglemm / Leogang / Fieberbrunn,Oostenrijk,619,992,12
 Bad Gastein,Ski Amadé - Gasteinertal,Oostenrijk,620,1022,4
 Zell am See,Schmittenhöhe Zell am See,Oostenrijk,622,981,9
 Sankt Michael im Lungau,Katschberg-Aineck,Oostenrijk,623,1040,1
@@ -137,7 +137,7 @@ La Toussuire,Les Sybelles,Frankrijk,703,1068,7
 Valmorel,Le Grand Domaine,Frankrijk,703,1064,1
 Alpe d'Huez,Alpe d'Huez - Le Grand Domaine,Frankrijk,704,1045,7
 Canazei,Dolomieten - Val di Fassa,Italië,704,1096,4
-Campitello (bij Canazei),Dolomieten - Val di Fassa,Italië,705,1098,3
+Campitello (bij Canazei),Dolomieten - Val di Fassa,Italië,705,1098,2
 Méribel Centre,Les Trois Vallées,Frankrijk,706,1071,1
 Méribel Village,Les Trois Vallées,Frankrijk,706,1070,1
 Saint Martin de Belleville,Les Trois Vallées,Frankrijk,707,1074,19
@@ -173,9 +173,9 @@ Plagne Soleil & Villages,Paradiski - La Plagne,Frankrijk,725,1088,4
 Belle Plagne,Paradiski - La Plagne,Frankrijk,725,1090,10
 Plagne Bellecote,Paradiski - La Plagne,Frankrijk,725,1088,1
 La Joue du Loup,Superdévoluy,Frankrijk,726,1076,1
-Val Thorens,Les Trois Vallées,Frankrijk,726,1091,21
+Val Thorens,Les Trois Vallées,Frankrijk,726,1091,20
 Rocca Pietore,Dolomieten - Arabba-Marmolada,Italië,726,1114,1
-Les Menuires,Les Trois Vallées,Frankrijk,726,1083,40
+Les Menuires,Les Trois Vallées,Frankrijk,726,1083,39
 Superdévoluy,Superdévoluy,Frankrijk,727,1077,4
 Alleghe,Dolomieten - Ski Civetta,Italië,727,1123,4
 Villaroger,Paradiski - Les Arcs,Frankrijk,727,1049,5
@@ -189,7 +189,7 @@ Dimaro (bij Folgarida),Folgarida-Marilleva,Italië,734,1158,2
 Falcade,Dolomieten - Alpe Lusia-San Pellegrino,Italië,735,1132,3
 Tignes 1800,Tignes - Val d'Isère,Frankrijk,735,1059,4
 Arc 1950,Paradiski - Les Arcs,Frankrijk,739,1104,1
-Tignes,Tignes - Val d'Isère,Frankrijk,740,1063,22
+Tignes,Tignes - Val d'Isère,Frankrijk,740,1063,21
 Serre Chevalier 1400 / Villeneuve-la-Salle,Le Grand Serre-Chevalier,Frankrijk,741,1087,1
 Arc 2000,Paradiski - Les Arcs,Frankrijk,742,1106,5
 Val d'Isère,Tignes - Val d'Isère,Frankrijk,745,1065,8
